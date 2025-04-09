@@ -8,5 +8,5 @@
 | Dylan      | Kha       | 71525230 | dyljkha          |
 | Isaac      | Cruz      | 22294102 | eyesaack         |
 | Cameron    | Zoffka    |          |                  |
-| Fredrick   | Ferriol   | 75004856 | frederickyf      |
+| Frederick  | Ferriol   | 75004856 | frederickyf      |
 | Charlie    | Chen      |          |                  |
